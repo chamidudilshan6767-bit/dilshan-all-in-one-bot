@@ -1,0 +1,5 @@
+python-telegram-bot
+qrcode
+pillow
+yt-dlp
+requests
