@@ -3,3 +3,4 @@ qrcode
 pillow
 yt-dlp
 requests
+flask
